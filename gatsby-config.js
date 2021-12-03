@@ -1,16 +1,16 @@
 /* eslint-disable no-undef */
 module.exports = {
   siteMetadata: {
-    title: `Vitor Alencar`,
-    author: `Vitor Alencar`,
+    title: `Guimarães Mahota`,
+    author: `Guimarães Mahota`,
     keywords: `Vitor Alencar,vitormalencar,personal website, blog, developer,tech,pwa,web`,
     description: `Software Engineer, Front-End • Consultant • Speaker • Traveler`,
     siteUrl: `https://www.vitormalencar.com/`,
     baseUrl: `https://www.vitormalencar.com/`,
     social: {
-      twitter: "vitormalencar",
-      instagram: "vitormalencar",
-      github: "vitormalencar",
+      twitter: "mahota_g",
+      instagram: "gmahota",
+      github: "gmahota",
     },
   },
   plugins: [
@@ -32,8 +32,8 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         start_url: `/`,
-        name: `Vitor Alencar`,
-        short_name: `Vitormalencar`,
+        name: `Guimarães Mahota`,
+        short_name: `Guimaresmahota`,
         display: `standalone`,
         theme_color: `#000000`,
         background_color: `#000000`,
