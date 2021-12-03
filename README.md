@@ -7,8 +7,7 @@
 ### I'm a Fullstack Engineer based in Mozambique
 
 - 🏢 I'm currently working at **[Mahota Life Style](https://github.com/gmahota/mls).**
-- ⚙️ I use daily: `.js`, `.html`, `.css`
-- 🌍 I'm mostly active within the **JS Community**
+- ⚙️ I use daily: `c#`, `javascript`
 - ⚡️ Fun fact: I can't remember dates =P 
 - 🌱 Learning all about **Open Source**
 - 👨‍💻 Current project [e-school](https://github.com/gmahota/eschool)
