@@ -13,7 +13,7 @@
   "about": {
     "img": "profile.png",
     "title": "Hi, I’m \nGuimarães Mahota.",
-    "paragraphOne": "Technology is my way to change the world and this is why I'm a software engineer! \n I helped improve Brazil education \n I helped people share their opinions online \n now I'm helping people get their money back!",
+    "paragraphOne": "Technology is my way to change the world and this is why I'm a software engineer! \n I helped people start development \n now I'm helping people get their money back!",
     "paragraphThree": "",
     "resume": "https://www.resumemaker.online/es.php"
   },
@@ -46,7 +46,7 @@
       "img": "https://pbs.twimg.com/profile_images/576433782154113025/y4KXohXr.png",
       "title": "Mahota Life Style",
       "description": "The main idea of Mahota Life Style is to unite all food plan with sport's activities groups in one place, making it possible to contribute actively to the growth of local community .",
-      "url": "https://github.com/deviofoundation",
+      "url": "https://mls-mahota.vercel.app/",
       "repo": ""
     }
   ],
@@ -57,7 +57,23 @@
       "role": "Senior Developer Engineer",
       "url": "http://incentea.com/",
       "image": "https://876916.smushcdn.com/1973206/wp-content/uploads/2020/06/EN-header-image-web-2019.jpg?lossy=1&strip=1&webp=1",
-      "description": "We're building the tax accountant for everyone. Our mission is simple: To help people get their money back."
+      "description": "Erp Primavera Developer and Consultant."
+    },
+    {
+      "title": "Multisector",
+      "duration": "2013 - 2014",
+      "role": "Senior Developer Engineer",
+      "url": "https://multisector.pt/",
+      "image": "https://876916.smushcdn.com/1973206/wp-content/uploads/2020/06/EN-header-image-web-2019.jpg?lossy=1&strip=1&webp=1",
+      "description": "Erp Primavera Developer and Consultant."
+    },
+    {
+      "title": "Accsys",
+      "duration": "2012 - 2013",
+      "role": "Junior Developer Engineer",
+      "url": "https://multisector.pt/",
+      "image": "https://876916.smushcdn.com/1973206/wp-content/uploads/2020/06/EN-header-image-web-2019.jpg?lossy=1&strip=1&webp=1",
+      "description": "Erp Primavera Developer and Consultant."
     }
   ]
 }

@@ -30,7 +30,7 @@ const AboutImg = () => (
       return (
         <Img
           className="w-180 h-180  rounded-full g-image g-image--lazy g-image--loaded"
-          alt={"Vitor Alencar headshot"}
+          alt={"Guimarães Mahota"}
           fixed={imageFixed}
         />
       )
