@@ -6,12 +6,12 @@
 ## Hi there I'm Guimarães Mahota 👋
 ### I'm a Fullstack Engineer based in Mozambique
 
-- 🏢 I'm currently working at **[Taxfix](https://taxfix.de/en).**
+- 🏢 I'm currently working at **[Mahota Life Style](https://github.com/gmahota/mls).**
 - ⚙️ I use daily: `.js`, `.html`, `.css`
 - 🌍 I'm mostly active within the **JS Community**
 - ⚡️ Fun fact: I can't remember dates =P 
 - 🌱 Learning all about **Open Source**
-- 👨‍💻 Current project [Clipboard.js](https://github.com/zenorocha/clipboard.js)
+- 👨‍💻 Current project [e-school](https://github.com/gmahota/eschool)
 
 - 📫 Reach me: [![INSTAGRAM](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/gmahota)
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahotag)
