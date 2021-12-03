@@ -3,8 +3,8 @@ module.exports = {
   siteMetadata: {
     title: `Guimarães Mahota`,
     author: `Guimarães Mahota`,
-    keywords: `Vitor Alencar,vitormalencar,personal website, blog, developer,tech,pwa,web`,
-    description: `Software Engineer, Front-End • Consultant • Speaker • Traveler`,
+    keywords: `Guimarães Mahota,Guimaraes,Mahota,personal website, blog, developer,tech,pwa,web`,
+    description: `Software Engineer, Front-End • BackEnd • Consultant • Traveler`,
     siteUrl: `https://www.vitormalencar.com/`,
     baseUrl: `https://www.vitormalencar.com/`,
     social: {
