@@ -5,8 +5,8 @@ module.exports = {
     author: `Guimarães Mahota`,
     keywords: `Guimarães Mahota,Guimaraes,Mahota,personal website, blog, developer,tech,pwa,web`,
     description: `Software Engineer, Front-End • BackEnd • Consultant • Traveler`,
-    siteUrl: `https://www.vitormalencar.com/`,
-    baseUrl: `https://www.vitormalencar.com/`,
+    siteUrl: `https://gmahota.vercel.app/`,
+    baseUrl: `https://gmahota.vercel.app/`,
     social: {
       twitter: "mahota_g",
       instagram: "gmahota",
