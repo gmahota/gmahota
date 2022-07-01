@@ -1,4 +1,4 @@
-<a href='https://mahotaservicos.com'>
+<a href='https://gmahota.vercel.app'>
   <img src="https://raw.githubusercontent.com/gmahota/gmahota/master/assets/artwork.png" height='200' widht='400' alt="Guimarães Mahota" />
   <img src="https://raw.githubusercontent.com/gmahota/gmahota/master/assets/qrcode.png" height='200' widht='400' alt="Guimarães Mahota" />
 </a>
