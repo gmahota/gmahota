@@ -6,11 +6,11 @@
 ## Hi there I'm Guimarães Mahota 👋
 ### I'm a Fullstack Engineer based in Mozambique
 
-- 🏢 I'm currently working at **[Whatsapp Module With Chat GPT](https://github.com/gmahota/whatsapp-gpt).** 
+- 🏢 I'm currently working at **[Sales API](https://github.com/gmahota/nodejs-sales-api)].** 
 - ⚙️ I use daily: `c#`, `javascript`
 - ⚡️ Fun fact: I can't remember dates =P 
 - 🌱 Learning all about **Open Source**
-- 👨‍💻 Current project [e-school](https://github.com/gmahota/eschool)
+- 👨‍💻 Current project ([Sales App](https://github.com/gmahota/sales-app))
 
 - 📫 Reach me: [![INSTAGRAM](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/gmahota)
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/mynetwork/discovery-see-all/?usecase=PEOPLE_FOLLOWS&followMember=mahotag)
