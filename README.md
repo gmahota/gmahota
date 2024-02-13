@@ -6,7 +6,7 @@
 ## Hi there I'm Guimarães Mahota 👋
 ### I'm a Fullstack Engineer based in Mozambique
 
-- 🏢 I'm currently working at **[Sales API](https://github.com/gmahota/nodejs-sales-api)].** 
+- 🏢 I'm currently working at **[Sales API](https://github.com/gmahota/nodejs-sales-api).** 
 - ⚙️ I use daily: `c#`, `javascript`
 - ⚡️ Fun fact: I can't remember dates =P 
 - 🌱 Learning all about **Open Source**
