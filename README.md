@@ -1,7 +1,7 @@
 ## Hi there, I'm Guimarães Mahota! 👋
 ### Fullstack Engineer based in Mozambique
 
-- 🏢 Currently working at **[Sales API](https://github.com/gmahota/nodejs-sales-api).** 
+- 🏢 Currently working at **[Simple Customer Services build with NodeJs](https://github.com/gmahota/nodejs-sales-api).** 
 - ⚙️ Daily use: `C#`, `JavaScript`
 - ⚡️ Fun fact: I can't remember dates =P 
 - 🌱 Learning all about **Open Source**
