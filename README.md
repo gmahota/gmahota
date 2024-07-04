@@ -1,4 +1,4 @@
-## Hi there, I'm Guimarães Mahota! 👋
+## Hi there, I'm Guimarães Mahota! 👋 ![meow?](https://komarev.com/ghpvc/?username=gmahota)
 ### Fullstack Engineer based in Mozambique
 
 - 🏢 Currently working at **[Simple Customer Services build with NodeJs](https://github.com/gmahota/nodejs-sales-api).** 
