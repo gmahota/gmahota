@@ -5,7 +5,7 @@
 - ⚙️ Daily use: `C#`, `JavaScript`
 - ⚡️ Fun fact: I can't remember dates =P 
 - 🌱 Learning all about **Open Source**
-- 👨‍💻 Current project: [Sales App](https://github.com/gmahota/notilab)
+- 👨‍💻 Current project: [NotiLab](https://github.com/gmahota/notilab)
 
 Experienced Fullstack Engineer with a strong background in Microsoft SQL Server, Primavera ERP, and C#. Skilled in financial management and with a proven track record in delivering high-quality solutions.
 
